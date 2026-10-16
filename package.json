@@ -1,0 +1,15 @@
+{
+  "name": "vem-comigo-sports",
+  "version": "1.4.0",
+  "private": true,
+  "description": "PWA de resultados de futebol",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "web-push": "^3.6.7"
+  }
+}

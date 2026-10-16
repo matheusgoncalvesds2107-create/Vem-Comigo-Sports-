@@ -1,0 +1,15 @@
+VEM COMIGO SPORTS 1.4 - WEB PUSH
+
+1. Envie os arquivos na raiz do repositório conectado ao Render.
+2. Build: npm install ; Start: npm start.
+3. Gere chaves VAPID em um computador com Node: npx web-push generate-vapid-keys
+4. Render > Environment: VAPID_PUBLIC_KEY, VAPID_PRIVATE_KEY e VAPID_SUBJECT=mailto:seu-email@exemplo.com (substitua pelo seu email).
+5. Publique, abra o PWA em HTTPS, clique Ativar Web Push e marque jogos com estrela.
+
+LIMITAÇÕES IMPORTANTES:
+- Render Free pode dormir; sem servidor ativo não há varredura de gols.
+- Inscrições são gravadas em push-subscriptions.json. O filesystem efêmero do Render pode apagá-las a cada reinício/deploy. Para produção, configure PUSH_DATA_FILE em disco persistente ou migre para banco.
+- Alertas dependem da fonte ESPN, da frequência de 60s e da disponibilidade de jogos.
+- O monitor considera gols quando o placar sobe durante o jogo, não confirmação oficial do autor.
+- Se a partida for favoritada após o gol, esse gol não será avisado.
+- Nunca publique a chave VAPID_PRIVATE_KEY no GitHub.
