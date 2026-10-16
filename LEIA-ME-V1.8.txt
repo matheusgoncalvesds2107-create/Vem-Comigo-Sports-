@@ -1,0 +1,1 @@
+Versão 1.8 — Placar centralizado: AO VIVO acima, Clube A 0 × 0 Clube B no centro e relógio/status abaixo. Usa apenas tempos fornecidos pela fonte. Mantém Web Push, favoritos, classificações e demais funções. Atualize os arquivos na raiz do repositório conectado ao Render.
