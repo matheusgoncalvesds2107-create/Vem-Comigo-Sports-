@@ -1,0 +1,12 @@
+Vem Comigo Sports 1.5 — icones renovados
+
+Atualizacao sobre a versao 1.4 Web Push.
+icon-192.png e icon-512.png: icones do PWA.
+icons/icon-192.png e icons/icon-512.png: copias compativeis.
+notification-icon.png: simbolo branco transparente das notificacoes (badge).
+sw.js: cache v5 e badge exclusivo.
+manifest.webmanifest: novos icones.
+
+Substitua todos os arquivos no repositorio que alimenta o Render.
+Mantenha as variaveis VAPID configuradas no Render, nunca no GitHub.
+Depois do deploy, no Android atualize ou reinstale o PWA se o icone antigo ficar em cache.
