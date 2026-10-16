@@ -1,0 +1,14 @@
+VEM COMIGO SPORTS — primeira versão PWA
+
+Para rodar localmente: instale Node.js 18+ e execute:
+  npm start
+Abra: http://localhost:3000
+
+Para colocar online: hospede a pasta como serviço web Node.js com comando "npm start".
+Este projeto NÃO funciona por completo em hospedagens exclusivamente estáticas (como apenas HTML), porque o server.js consulta dados de partidas e evita problemas de CORS.
+
+Fonte de placares: endpoint público não oficial de ESPN. Pode mudar, falhar ou deixar de disponibilizar competições. Não é integração com o backend privado do Feeberse.
+A interface é original e independente; nenhum código ou recurso do APK foi copiado.
+Dados reais somente quando o servidor conseguir consultar a fonte. Não existem placares fictícios.
+Favoritos ficam salvos no navegador deste aparelho. Notificações push em segundo plano e escalações ainda não estão implementadas.
+Para instalar como PWA a partir de um site público, use HTTPS e no navegador escolha "Adicionar à tela inicial"/"Instalar app".
