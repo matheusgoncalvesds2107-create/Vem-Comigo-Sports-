@@ -1,0 +1,512 @@
+[
+  {
+    "id": "br-lnfa",
+    "region": "Brasil",
+    "group": "Nacional",
+    "name": "Liga Nacional de Futsal",
+    "organizer": "LNF",
+    "official": "https://lnfoficial.com.br/",
+    "description": "Calendário, jogos e classificação",
+    "automatic": false
+  },
+  {
+    "id": "br-lnfs",
+    "region": "Brasil",
+    "group": "Nacional",
+    "name": "LNF Silver",
+    "organizer": "LNF",
+    "official": "https://lnfoficial.com.br/",
+    "description": "Divisão de acesso nacional",
+    "automatic": false
+  },
+  {
+    "id": "br-copa-lnf",
+    "region": "Brasil",
+    "group": "Nacional",
+    "name": "Copa LNF",
+    "organizer": "LNF",
+    "official": "https://lnfoficial.com.br/",
+    "description": "Competições e notícias",
+    "automatic": false
+  },
+  {
+    "id": "rs-a",
+    "region": "Rio Grande do Sul",
+    "group": "Gaúcho",
+    "name": "Gauchão de Futsal — Série A",
+    "organizer": "Liga Gaúcha",
+    "official": "https://ligagaucha.com.br/",
+    "description": "Elite do futsal gaúcho",
+    "automatic": false
+  },
+  {
+    "id": "rs-b",
+    "region": "Rio Grande do Sul",
+    "group": "Gaúcho",
+    "name": "Gauchão de Futsal — Série B",
+    "organizer": "Liga Gaúcha",
+    "official": "https://ligagaucha.com.br/",
+    "description": "11 equipes na temporada 2026",
+    "automatic": false
+  },
+  {
+    "id": "rs-c",
+    "region": "Rio Grande do Sul",
+    "group": "Gaúcho",
+    "name": "Gauchão de Futsal — Série C",
+    "organizer": "Liga Gaúcha",
+    "official": "https://ligagaucha.com.br/",
+    "description": "24 equipes em 2026; conferências Leste e Oeste",
+    "automatic": false
+  },
+  {
+    "id": "rs-pampas",
+    "region": "Rio Grande do Sul",
+    "group": "Gaúcho",
+    "name": "Copa dos Pampas",
+    "organizer": "Liga Gaúcha",
+    "official": "https://ligagaucha.com.br/",
+    "description": "Copa estadual de futsal",
+    "automatic": false
+  },
+  {
+    "id": "rs-ouro",
+    "region": "Rio Grande do Sul",
+    "group": "FGFS",
+    "name": "Série Ouro de Futsal",
+    "organizer": "Federação Gaúcha de Futsal",
+    "official": "https://www.fgfs.org.br/campeonatos_lista.php",
+    "description": "Competição da FGFS, distinta da Liga Gaúcha",
+    "automatic": false
+  },
+  {
+    "id": "rs-prata",
+    "region": "Rio Grande do Sul",
+    "group": "FGFS",
+    "name": "Série Prata de Futsal",
+    "organizer": "Federação Gaúcha de Futsal",
+    "official": "https://www.fgfs.org.br/campeonatos_lista.php",
+    "description": "Competição da FGFS",
+    "automatic": false
+  },
+  {
+    "id": "rs-bronze",
+    "region": "Rio Grande do Sul",
+    "group": "FGFS",
+    "name": "Série Bronze de Futsal",
+    "organizer": "Federação Gaúcha de Futsal",
+    "official": "https://www.fgfs.org.br/campeonatos_lista.php",
+    "description": "Competição da FGFS",
+    "automatic": false
+  },
+  {
+    "id": "sp-lpf",
+    "region": "São Paulo",
+    "group": "Paulista",
+    "name": "Liga Paulista de Futsal (LPF)",
+    "organizer": "Liga Paulista",
+    "official": "https://ligapaulistafutsal.com.br/",
+    "description": "Jogos, classificação e notícias LPF",
+    "automatic": false
+  },
+  {
+    "id": "sp-principal",
+    "region": "São Paulo",
+    "group": "Paulista",
+    "name": "Campeonato Paulista — Principal Masculino",
+    "organizer": "Federação Paulista",
+    "official": "https://www.federacaopaulistadefutsal.com.br/novo/",
+    "description": "Torneio estadual adulto masculino da FPFS",
+    "automatic": false
+  },
+  {
+    "id": "sp-feminino",
+    "region": "São Paulo",
+    "group": "Paulista",
+    "name": "Campeonato Paulista — Principal Feminino",
+    "organizer": "Federação Paulista",
+    "official": "https://www.federacaopaulistadefutsal.com.br/novo/",
+    "description": "Categoria adulta feminina",
+    "automatic": false
+  },
+  {
+    "id": "sp-sub20",
+    "region": "São Paulo",
+    "group": "Paulista",
+    "name": "Campeonato Paulista — Sub-20 Masculino",
+    "organizer": "Federação Paulista",
+    "official": "https://www.federacaopaulistadefutsal.com.br/novo/",
+    "description": "Categoria sub-20",
+    "automatic": false
+  },
+  {
+    "id": "cbfs-brasileiro",
+    "region": "Brasil",
+    "group": "CBFS",
+    "name": "Campeonato Brasileiro de Futsal — Masculino",
+    "organizer": "CBFS",
+    "official": "https://adm.cbfs.com.br/Site/campeonatos.asp",
+    "description": "Campeonato adulto da CBFS; edição 2026",
+    "automatic": false
+  },
+  {
+    "id": "cbfs-copa-m",
+    "region": "Brasil",
+    "group": "CBFS",
+    "name": "Copa do Brasil de Futsal — Masculino",
+    "organizer": "CBFS",
+    "official": "https://adm.cbfs.com.br/Site/campeonatos.asp",
+    "description": "Competição nacional masculina",
+    "automatic": false
+  },
+  {
+    "id": "cbfs-copa-f",
+    "region": "Brasil",
+    "group": "CBFS",
+    "name": "Copa do Brasil de Futsal — Feminino",
+    "organizer": "CBFS",
+    "official": "https://adm.cbfs.com.br/Site/campeonatos.asp",
+    "description": "Competição nacional feminina",
+    "automatic": false
+  },
+  {
+    "id": "cbfs-super-m",
+    "region": "Brasil",
+    "group": "CBFS",
+    "name": "Supercopa do Brasil — Masculino",
+    "organizer": "CBFS",
+    "official": "https://adm.cbfs.com.br/Site/campeonatos.asp",
+    "description": "Competição nacional adulta",
+    "automatic": false
+  },
+  {
+    "id": "cbfs-super-f",
+    "region": "Brasil",
+    "group": "CBFS",
+    "name": "Supercopa do Brasil — Feminino",
+    "organizer": "CBFS",
+    "official": "https://adm.cbfs.com.br/Site/campeonatos.asp",
+    "description": "Competição nacional adulta",
+    "automatic": false
+  },
+  {
+    "id": "cbfs-taca-esp",
+    "region": "Brasil",
+    "group": "CBFS",
+    "name": "Taça Brasil de Clubes — Especial",
+    "organizer": "CBFS",
+    "official": "https://adm.cbfs.com.br/Site/campeonatos.asp",
+    "description": "Adulto masculino, divisão Especial",
+    "automatic": false
+  },
+  {
+    "id": "cbfs-taca-1",
+    "region": "Brasil",
+    "group": "CBFS",
+    "name": "Taça Brasil de Clubes — 1ª Divisão",
+    "organizer": "CBFS",
+    "official": "https://adm.cbfs.com.br/Site/campeonatos.asp",
+    "description": "Adulto masculino",
+    "automatic": false
+  },
+  {
+    "id": "cbfs-taca-2",
+    "region": "Brasil",
+    "group": "CBFS",
+    "name": "Taça Brasil de Clubes — 2ª Divisão",
+    "organizer": "CBFS",
+    "official": "https://adm.cbfs.com.br/Site/campeonatos.asp",
+    "description": "Adulto masculino",
+    "automatic": false
+  },
+  {
+    "id": "cbfs-regionais",
+    "region": "Brasil",
+    "group": "CBFS",
+    "name": "Copas Regionais CBFS",
+    "organizer": "CBFS",
+    "official": "https://adm.cbfs.com.br/Site/campeonatos.asp",
+    "description": "Regionais Sul, Sudeste, Centro-Oeste, Norte e Nordeste",
+    "automatic": false
+  },
+  {
+    "id": "cbfs-feminina",
+    "region": "Brasil",
+    "group": "CBFS",
+    "name": "Liga Feminina de Futsal",
+    "organizer": "CBFS",
+    "official": "https://adm.cbfs.com.br/Site/campeonatos.asp",
+    "description": "Competição nacional feminina registrada na CBFS",
+    "automatic": false
+  },
+  {
+    "id": "cbfs-taca-base",
+    "region": "Brasil",
+    "group": "CBFS",
+    "name": "Taça Brasil — Categorias de base",
+    "organizer": "CBFS",
+    "official": "https://adm.cbfs.com.br/Site/campeonatos.asp",
+    "description": "Categorias de base masculinas e femininas; consultar edição",
+    "automatic": false
+  },
+  {
+    "id": "cbfs-lnf20",
+    "region": "Brasil",
+    "group": "CBFS",
+    "name": "Liga Nacional Sub-20 Masculina",
+    "organizer": "CBFS",
+    "official": "https://adm.cbfs.com.br/Site/campeonatos.asp",
+    "description": "Disputa nacional sub-20",
+    "automatic": false
+  },
+  {
+    "id": "rs-copa-rs",
+    "region": "Rio Grande do Sul",
+    "group": "FGFS",
+    "name": "Copa RS Masculina",
+    "organizer": "Federação Gaúcha de Futsal",
+    "official": "https://www.fgfs.org.br/campeonatos_lista.php",
+    "description": "Copa RS 2026",
+    "automatic": false
+  },
+  {
+    "id": "rs-fem-ouro",
+    "region": "Rio Grande do Sul",
+    "group": "FGFS",
+    "name": "Gaúcho Feminino — Série Ouro",
+    "organizer": "Federação Gaúcha de Futsal",
+    "official": "https://www.fgfs.org.br/campeonatos_lista.php",
+    "description": "Competição oficial da FGFS em 2026",
+    "automatic": false
+  },
+  {
+    "id": "rs-fem-bronze",
+    "region": "Rio Grande do Sul",
+    "group": "FGFS",
+    "name": "Gaúcho Feminino — Série Bronze",
+    "organizer": "Federação Gaúcha de Futsal",
+    "official": "https://www.fgfs.org.br/campeonatos_lista.php",
+    "description": "Competição oficial da FGFS em 2026",
+    "automatic": false
+  },
+  {
+    "id": "rs-copa-fgfs",
+    "region": "Rio Grande do Sul",
+    "group": "FGFS",
+    "name": "Copa FGFS Clausura",
+    "organizer": "Federação Gaúcha de Futsal",
+    "official": "https://www.fgfs.org.br/campeonatos_lista.php",
+    "description": "Copa estadual da FGFS",
+    "automatic": false
+  },
+  {
+    "id": "rs-est-base",
+    "region": "Rio Grande do Sul",
+    "group": "FGFS",
+    "name": "Estadual Gaúcho — Categorias de base",
+    "organizer": "Federação Gaúcha de Futsal",
+    "official": "https://www.fgfs.org.br/campeonatos_lista.php",
+    "description": "Masculino e feminino; categorias variam por torneio",
+    "automatic": false
+  },
+  {
+    "id": "sp-iniciacao-a1",
+    "region": "São Paulo",
+    "group": "FPFS",
+    "name": "Paulista Iniciação A1 — Sub-7 a Sub-10",
+    "organizer": "Federação Paulista de Futsal",
+    "official": "https://www.federacaopaulistadefutsal.com.br/novo/wp-content/uploads/2026/01/CALENDARIO-DE-COMPETICOES-2026.pdf",
+    "description": "Calendário FPFS 2026",
+    "automatic": false
+  },
+  {
+    "id": "sp-iniciacao-a2",
+    "region": "São Paulo",
+    "group": "FPFS",
+    "name": "Paulista Iniciação A2 — Sub-7 a Sub-10",
+    "organizer": "Federação Paulista de Futsal",
+    "official": "https://www.federacaopaulistadefutsal.com.br/novo/wp-content/uploads/2026/01/CALENDARIO-DE-COMPETICOES-2026.pdf",
+    "description": "Calendário FPFS 2026",
+    "automatic": false
+  },
+  {
+    "id": "sp-iniciacao-a3",
+    "region": "São Paulo",
+    "group": "FPFS",
+    "name": "Paulista Iniciação A3 — Sub-7 a Sub-10",
+    "organizer": "Federação Paulista de Futsal",
+    "official": "https://www.federacaopaulistadefutsal.com.br/novo/wp-content/uploads/2026/01/CALENDARIO-DE-COMPETICOES-2026.pdf",
+    "description": "Calendário FPFS 2026",
+    "automatic": false
+  },
+  {
+    "id": "sp-base-a1",
+    "region": "São Paulo",
+    "group": "FPFS",
+    "name": "Paulista Base A1 — Sub-12 a Sub-18",
+    "organizer": "Federação Paulista de Futsal",
+    "official": "https://www.federacaopaulistadefutsal.com.br/novo/wp-content/uploads/2026/01/CALENDARIO-DE-COMPETICOES-2026.pdf",
+    "description": "Calendário FPFS 2026",
+    "automatic": false
+  },
+  {
+    "id": "sp-base-a2",
+    "region": "São Paulo",
+    "group": "FPFS",
+    "name": "Paulista Base A2 — Sub-12 a Sub-18",
+    "organizer": "Federação Paulista de Futsal",
+    "official": "https://www.federacaopaulistadefutsal.com.br/novo/wp-content/uploads/2026/01/CALENDARIO-DE-COMPETICOES-2026.pdf",
+    "description": "Calendário FPFS 2026",
+    "automatic": false
+  },
+  {
+    "id": "pr-ouro",
+    "region": "Paraná",
+    "group": "Paranaense",
+    "name": "Paranaense — Série Ouro",
+    "organizer": "Federação Paranaense de Futebol de Salão",
+    "official": "https://www.futsalparana.com.br/",
+    "description": "Campeonato listado pela Federação Paranaense",
+    "automatic": false
+  },
+  {
+    "id": "pr-prata",
+    "region": "Paraná",
+    "group": "Paranaense",
+    "name": "Paranaense — Série Prata",
+    "organizer": "Federação Paranaense de Futebol de Salão",
+    "official": "https://www.futsalparana.com.br/",
+    "description": "Campeonato listado pela Federação Paranaense",
+    "automatic": false
+  },
+  {
+    "id": "pr-bronze",
+    "region": "Paraná",
+    "group": "Paranaense",
+    "name": "Paranaense — Série Bronze",
+    "organizer": "Federação Paranaense de Futebol de Salão",
+    "official": "https://www.futsalparana.com.br/",
+    "description": "Campeonato listado pela Federação Paranaense",
+    "automatic": false
+  },
+  {
+    "id": "pr-fem-ouro",
+    "region": "Paraná",
+    "group": "Paranaense",
+    "name": "Paranaense Feminino — Série Ouro",
+    "organizer": "Federação Paranaense de Futebol de Salão",
+    "official": "https://www.futsalparana.com.br/",
+    "description": "Campeonato listado pela Federação Paranaense",
+    "automatic": false
+  },
+  {
+    "id": "pr-fem-prata",
+    "region": "Paraná",
+    "group": "Paranaense",
+    "name": "Paranaense Feminino — Série Prata",
+    "organizer": "Federação Paranaense de Futebol de Salão",
+    "official": "https://www.futsalparana.com.br/",
+    "description": "Campeonato listado pela Federação Paranaense",
+    "automatic": false
+  },
+  {
+    "id": "pr-sub20",
+    "region": "Paraná",
+    "group": "Paranaense",
+    "name": "Paranaense Masculino — Sub-20",
+    "organizer": "Federação Paranaense de Futebol de Salão",
+    "official": "https://www.futsalparana.com.br/",
+    "description": "Campeonato listado pela Federação Paranaense",
+    "automatic": false
+  },
+  {
+    "id": "pr-uniao",
+    "region": "Paraná",
+    "group": "Paranaense",
+    "name": "Copa União de Futsal",
+    "organizer": "Federação Paranaense de Futebol de Salão",
+    "official": "https://www.futsalparana.com.br/",
+    "description": "Campeonato listado pela Federação Paranaense",
+    "automatic": false
+  },
+  {
+    "id": "sc-ouro",
+    "region": "Santa Catarina",
+    "group": "Catarinense",
+    "name": "Catarinense — Série Ouro",
+    "organizer": "Federação Catarinense de Futebol de Salão",
+    "official": "https://adm.cbfs.com.br/Site/noticia_det.asp?cod=5341",
+    "description": "Competições 2026 confirmadas pelo congresso técnico",
+    "automatic": false
+  },
+  {
+    "id": "sc-prata",
+    "region": "Santa Catarina",
+    "group": "Catarinense",
+    "name": "Catarinense — Série Prata",
+    "organizer": "Federação Catarinense de Futebol de Salão",
+    "official": "https://adm.cbfs.com.br/Site/noticia_det.asp?cod=5341",
+    "description": "Competições 2026 confirmadas pelo congresso técnico",
+    "automatic": false
+  },
+  {
+    "id": "mg-est-m",
+    "region": "Minas Gerais",
+    "group": "Mineiro",
+    "name": "Mineiro Estadual — Adulto Masculino",
+    "organizer": "Federação Mineira de Futsal",
+    "official": "https://www.fmfutsal.com.br/campeonatos.php",
+    "description": "Temporada 2026 na plataforma oficial da Federação Mineira",
+    "automatic": false
+  },
+  {
+    "id": "mg-est-base",
+    "region": "Minas Gerais",
+    "group": "Mineiro",
+    "name": "Mineiro Estadual — Categorias de base",
+    "organizer": "Federação Mineira de Futsal",
+    "official": "https://www.fmfutsal.com.br/campeonatos.php",
+    "description": "Temporada 2026 na plataforma oficial da Federação Mineira",
+    "automatic": false
+  },
+  {
+    "id": "mg-int-m",
+    "region": "Minas Gerais",
+    "group": "Mineiro",
+    "name": "Mineiro do Interior — Adulto Masculino",
+    "organizer": "Federação Mineira de Futsal",
+    "official": "https://www.fmfutsal.com.br/campeonatos.php",
+    "description": "Temporada 2026 na plataforma oficial da Federação Mineira",
+    "automatic": false
+  },
+  {
+    "id": "mg-int-f",
+    "region": "Minas Gerais",
+    "group": "Mineiro",
+    "name": "Mineiro do Interior — Adulto Feminino",
+    "organizer": "Federação Mineira de Futsal",
+    "official": "https://www.fmfutsal.com.br/campeonatos.php",
+    "description": "Temporada 2026 na plataforma oficial da Federação Mineira",
+    "automatic": false
+  },
+  {
+    "id": "mg-met-m",
+    "region": "Minas Gerais",
+    "group": "Mineiro",
+    "name": "Mineiro Metropolitano — Adulto Masculino",
+    "organizer": "Federação Mineira de Futsal",
+    "official": "https://www.fmfutsal.com.br/campeonatos.php",
+    "description": "Temporada 2026 na plataforma oficial da Federação Mineira",
+    "automatic": false
+  },
+  {
+    "id": "mg-met-f",
+    "region": "Minas Gerais",
+    "group": "Mineiro",
+    "name": "Mineiro Metropolitano — Adulto Feminino",
+    "organizer": "Federação Mineira de Futsal",
+    "official": "https://www.fmfutsal.com.br/campeonatos.php",
+    "description": "Temporada 2026 na plataforma oficial da Federação Mineira",
+    "automatic": false
+  }
+]
